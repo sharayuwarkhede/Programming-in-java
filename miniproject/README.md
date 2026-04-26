@@ -1,3 +1,3 @@
 # My Mini Project:E ticket booking System
 
-Description of what this mini project does...
+
